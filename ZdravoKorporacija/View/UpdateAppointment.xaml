@@ -1,0 +1,71 @@
+﻿<Window x:Class="Bolnica.View.UpdateAppointment"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.View"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Loaded="OnLoad"
+         WindowStyle="ToolWindow"
+        ResizeMode="NoResize"
+        Title="UpdateAppointment" Height="550" Width="400" FontFamily="Segoe UI Black" Background="#FFBBB6B6">
+    <Window.Resources>
+        <Style x:Key="MyWaterMarkStyle" TargetType="{x:Type TextBox}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type TextBox}">
+                        <Grid>
+                            <Border Background="#FFFBF7F7" BorderBrush="#FF7D8683" />
+                            <ScrollViewer x:Name="PART_ContentHost" Margin="5,0,0,0" VerticalAlignment="Center" />
+                            <Label Margin="5,0,0,0" x:Name="WaterMarkLabel" Content="{TemplateBinding Tag}" VerticalAlignment="Center"
+                                Visibility="Collapsed" Foreground="#5d5b5b" FontFamily="Segoe UI Black"/>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <MultiTrigger>
+                                <MultiTrigger.Conditions>
+                                    <Condition Property="Text" Value=""/>
+                                </MultiTrigger.Conditions>
+                                <Setter Property="Visibility" TargetName="WaterMarkLabel" Value="Visible"/>
+                            </MultiTrigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Foreground" Value="DimGray"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Calendar x:Name="DatePick" Margin="10,10,208,318" />
+        <Label  Content="Select Priority"  HorizontalAlignment="Center"   VerticalAlignment="Center" FontSize="16" VerticalContentAlignment="Center"  FontFamily="Segoe UI Black" Height="30" Margin="198,10,74,482" Width="122" />
+        <RadioButton x:Name="radioDoctor" Content="Doctor" FontSize="14" VerticalAlignment="Center" VerticalContentAlignment="Center" Height="25" Margin="201,40,53,457"/>
+        <RadioButton x:Name="radioTime" Content="Time" FontSize="14" VerticalAlignment="Center" VerticalContentAlignment="Center" Height="25" Margin="203,70,51,427"/>
+        <Button  Content="Find Free Terms" FontSize="15" FontFamily="Segoe UI Black" BorderThickness="3"  BorderBrush="#FF4D4B4B"   Click="find_free_terms" Margin="201,286,31,174" >
+            <Button.ToolTip>
+                <StackPanel>
+                    <TextBlock FontWeight="Bold" FontSize="14" Margin="0,0,0,5">Click the button</TextBlock>
+                    <TextBlock>
+                        Click here see doctor's schedule for selected time range
+                    </TextBlock>
+                    <Border BorderBrush="Silver" BorderThickness="0,1,0,0" Margin="0,8" />
+                    <WrapPanel>
+                        <Image Source="/Images/bell.png" Margin="0,0,0,0" Height="15" Width="20" />
+                        <TextBlock FontStyle="Italic">Showing doctor's free terms</TextBlock>
+                    </WrapPanel>
+                </StackPanel>
+            </Button.ToolTip>
+        </Button>
+        <ListBox x:Name="ListFreeTerms"  FontSize="15" VerticalContentAlignment="Center" Background="#FFDDDDDD" BorderThickness="3"  BorderBrush="#FF4D4B4B"  FontFamily="Segoe UI Black"  HorizontalContentAlignment="Center" Margin="10,190,208,82" />
+        <Button Content="Close" FontSize="16" FontFamily="Segoe UI Black" BorderThickness="3"  BorderBrush="#FF4D4B4B"   Click="close_update" Margin="10,450,208,10" />
+        <Button Content="Update" FontSize="16" FontFamily="Segoe UI Black" BorderThickness="3"  BorderBrush="#FF4D4B4B"   Click="update_term" Margin="201,450,31,10" />
+        <Label Content="Duration in hours:"  HorizontalAlignment="Center"   VerticalAlignment="Center" FontSize="16" VerticalContentAlignment="Center"  FontFamily="Segoe UI Black" Height="30" Margin="198,353,34,139" Width="162" />
+        <TextBox Style="{StaticResource MyWaterMarkStyle}" Tag="0-1" x:Name="Duration" Width="82"  FontFamily="Segoe UI Black" Background="#FFFBF7F7" FontSize="16"   VerticalContentAlignment="Center" BorderThickness="3" BorderBrush="#FF4D4B4B" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="205,394,107,82" />
+        <Label Content="Start Time"  HorizontalAlignment="Center"   VerticalAlignment="Center" FontSize="16" VerticalContentAlignment="Center"  FontFamily="Segoe UI Black" Height="30" Margin="201,95,87,397" Width="106" />
+        <Label Content="End Time"  HorizontalAlignment="Center"   VerticalAlignment="Center" FontSize="16" VerticalContentAlignment="Center"  FontFamily="Segoe UI Black" Height="30" Margin="198,190,90,302" Width="106" />
+        <TextBox Style="{StaticResource MyWaterMarkStyle}" Tag="hh:mm" x:Name="tb_startTime" Width="84"  FontFamily="Segoe UI Black" Background="#FFFBF7F7" FontSize="16"   VerticalContentAlignment="Center" BorderThickness="3" BorderBrush="#FF4D4B4B" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="203,130,107,347" />
+        <TextBox Style="{StaticResource MyWaterMarkStyle}" Tag="hh:mm" x:Name="tb_endTime" Width="86"  FontFamily="Segoe UI Black" Background="#FFFBF7F7" FontSize="16"   VerticalContentAlignment="Center" BorderThickness="3" BorderBrush="#FF4D4B4B" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="201,225,107,250" />
+
+    </Grid>
+</Window>

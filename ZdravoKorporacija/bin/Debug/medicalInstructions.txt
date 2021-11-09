@@ -1,0 +1,5 @@
+1,1,16,problemi sa srcem,SpecialTreatment,True
+2,1,15,sizofrenija,SpecialTreatment,True
+3,1,13,dijabetes tip 1,HospitalTreatment,True
+4,1,14,infarkt miokarda,HospitalTreatment,True
+

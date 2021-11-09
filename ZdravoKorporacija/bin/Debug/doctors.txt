@@ -1,0 +1,16 @@
+2705555521456,1,Lazar,Lazic,066123456,Karadjordjeva,1234,zenkyff,opste prakse,2
+1660123321456,2,Mitar,Miric,066654321,Dositejeva,123454,doktorski,opste prakse,2
+8890123321456,3,Kosta,Kostic,066555333,Dunavska,1223,doca,opste prakse,1
+2700123354321,4,Goran,Goric,066123321,Strazilovska,5555,znk,opste prakse,1
+2700123354321,5,Zoran,Mihic,066123321,Omladinska,121,neuro,opste prakse,1
+2700123354321,6,Milan,Milic,066123321,Rumenacka,23531,kardio,opste prakse,3
+2700123354321,7,Sasa,Rakic,066123321,Ulicica,113,nejm,opste prakse,3
+2700123354321,8,Milos,Milosevic,066123321,Ulicica,113,nejm,kardiolog,3
+2700123354321,9,Dragan,Mirkovic,066123321,Ulicica,113,nejm,psihijatar,3
+2700123354321,10,Miroslav,Ilic,066123321,Ulicica,113,nejm,endokrinolog,2
+2700123354321,11,Srdjan,Topic,066123321,Ulicica,113,nejm,kardiolog,3
+2700123354321,12,Nikolina,Radulovic,066123321,Ulicica,113,nejm,psihijatar,3
+2700123354321,13,Aleksandra,Borisavljevic,066123321,Ulicica,113,nejm,endokrinolog,3
+2700123354321,14,Aleksa,Mihic,066123321,Ulicica,113,nejm,kardiolog,1
+2700123354321,15,Aleksa,Mirkovic,066123321,Ulicica,113,nejm,psihijatar,3
+2700123354321,16,Miroslav,Miskovic,066123321,Ulicica,113,nejm,kardiohirurg,3

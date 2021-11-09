@@ -1,0 +1,33 @@
+﻿<Window x:Class="Bolnica.AllergensWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica"
+        mc:Ignorable="d"
+        Title="AllergensWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Patient" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="62,74,0,0"/>
+        <TextBox Name="patient"  HorizontalAlignment="Left" Height="23" Margin="147,74,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <ListView Name="lvDataBinding" Margin="26,290,0,0" >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <WrapPanel>
+                        <TextBlock  Text="ID: " />
+                        <TextBlock Text="{Binding id}" FontWeight="Bold"  TextDecorations="Underline" Foreground="Blue" Cursor="Hand" />
+                        <TextBlock Text=", " />
+                        <TextBlock Text="anamnesis: " FontWeight="Bold" />
+                        <TextBlock Text="{Binding anamnesis}"  />
+                        <TextBlock Text="alergens: " FontWeight="Bold" />
+                        <TextBlock Text="{Binding alergens}" />
+                        <TextBlock Text="patient id: " FontWeight="Bold" />
+                        <TextBlock Text="{Binding patient.user.id}" />
+                    </WrapPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <TextBlock  HorizontalAlignment="Left" Margin="587,37,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="100" Width="166"/>
+        <TextBox Name="AllAlergens" HorizontalAlignment="Left" Height="99" Margin="314,158,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="315"/>
+        <Button Content="save changes" HorizontalAlignment="Left" Margin="678,187,0,0" VerticalAlignment="Top" Width="75"  />
+    </Grid>
+</Window>

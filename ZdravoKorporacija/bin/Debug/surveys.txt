@@ -1,0 +1,39 @@
+1,50,Odlicna bolnica!,5,HospitalSurvey
+2,2,Dobro radi svoj posao,5,DoctorSurvey
+3,1,jojokkkkk,4,DoctorSurvey
+4,2,solidan,4,DoctorSurvey
+5,1,nije nesto,2,DoctorSurvey
+6,50,okej bolnica,3,HospitalSurvey
+7,50,asdasfafsfsa,4,HospitalSurvey
+8,1,solidan doktor,4,DoctorSurvey
+9,50,okej bolnica,2,HospitalSurvey
+10,50,asodjojsaojfsa,4,HospitalSurvey
+11,3,dobar doktor,5,DoctorSurvey
+12,3,solidan doktor,3,DoctorSurvey
+13,50,asodjojsaojfsa,4,HospitalSurvey
+14,50,asodjojsaojfsa,4,HospitalSurvey
+15,50,asodjojsaojfsa,4,HospitalSurvey
+16,50,aqwde,4,HospitalSurvey
+17,1,123sfasafsa,4,DoctorSurvey
+18,3,fsafsafsa,3,DoctorSurvey
+19,50,vkppkewqgpkpkge,3,HospitalSurvey
+20,50,dobra bolnica,5,HospitalSurvey
+21,50,asdasfsafsa,3,HospitalSurvey
+22,7,asdasd,3,DoctorSurvey
+23,7,asdasf,2,DoctorSurvey
+24,4,dobar doktor,4,DoctorSurvey
+
+25,50,asd,3,HospitalSurvey
+26,8,asdasfa,2,DoctorSurvey
+27,5,asd,3,DoctorSurvey
+28,5,asdf,4,DoctorSurvey
+29,50,asd,3,HospitalSurvey
+30,5,asfsasaggsa,4,DoctorSurvey
+31,4,asffsa,3,DoctorSurvey
+32,7,asd,2,DoctorSurvey
+33,8,asdgwqfg,3,DoctorSurvey
+34,50,dobra bolnica,5,HospitalSurvey
+35,6,asfasf,4,DoctorSurvey
+36,6,asf,2,DoctorSurvey
+37,50,asd,7,HospitalSurvey
+38,50,asf,4,HospitalSurvey

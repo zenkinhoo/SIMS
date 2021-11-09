@@ -1,0 +1,118 @@
+﻿<Page x:Class="Bolnica.ViewsSecretary.HomePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Bolnica.ViewsSecretary"
+      xmlns:fa="http://schemas.fontawesome.io/icons/"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="HomePage">
+
+    <Grid Background="AliceBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30px"></RowDefinition>
+            <RowDefinition Height="30px"></RowDefinition>
+            <RowDefinition Height="55"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="90px"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40px"></ColumnDefinition>
+                <ColumnDefinition Width="40px"></ColumnDefinition>
+                <ColumnDefinition Width="40px"></ColumnDefinition>
+                <ColumnDefinition Width="40px"></ColumnDefinition>
+                <ColumnDefinition Width="10*"></ColumnDefinition>
+                <ColumnDefinition Width="40px"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button  Content="←" Grid.Column="0" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Width="40px" Height="30px" BorderThickness="0"  Foreground="Black" FontSize="18"></Button>
+            <Button  Content="→" Grid.Column="1" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Width="40px" Height="30px" BorderThickness="0"  Foreground="Black" FontSize="18"></Button>
+            <Button  Content="⟳" Grid.Column="2" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Width="40px" Height="30px" BorderThickness="0" Foreground="Black" FontSize="18"></Button>
+            <Button  Content="⌂" Grid.Column="3" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Width="40px" Height="30px" BorderThickness="0" Foreground="Black" FontSize="18"></Button>
+            <TextBox  Text="http://zdravokorporacija.com" x:Name="area" Grid.Column="4" Foreground="Black" FontSize="15" FontWeight="SemiBold" Margin="14 0 14 0"></TextBox>
+            <Button  Content="search" Grid.Column="5" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Width="40px" Height="30px" BorderThickness="0" Foreground="Black" FontSize="8"></Button>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button  Content="Home" Grid.Column="0" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" ></Button>
+            <Button  Content="Patients" Grid.Column="1" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" Click="View_patients"></Button>
+            <Button  Content="Doctors" Grid.Column="2" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" Click="View_doctors"></Button>
+
+            <Button  Content="Appointments" Grid.Column="3" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" Click="View_appointments"></Button>
+            <Button  Content="Rooms" Grid.Column="4" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" Click="View_rooms"></Button>
+            <ComboBox Name="new_patient_register"  SelectionChanged="ComboBox_SelectionChanged" Grid.Column="5" Background="AliceBlue" BorderBrush="AliceBlue" Style="{StaticResource {x:Static ToolBar.ComboBoxStyleKey}}" BorderThickness="0"  Foreground="Black" Margin="0,5" Width="100" >
+                <ComboBoxItem >Guest account</ComboBoxItem>
+                <ComboBoxItem>Regular account</ComboBoxItem>
+            </ComboBox>
+            <Label Grid.Column="5" Content="New patient" HorizontalAlignment="Center"></Label>
+            <Button  Content="Graphs" Grid.Column="6" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" Click="View_graphs"></Button>
+            <Button  Content="Bulletin board " Grid.Column="7" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" Click="BulletinBoard"></Button>
+
+            <Button  Content="Profile" Grid.Column="9" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" Click="View_profile"></Button>
+            <Button  Content="Log out" Grid.Column="10" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" Click="Log_out"></Button>
+            <Button  Content="Emergency" Grid.Column="8" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" Click="Emergency_appointment"></Button>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid>
+                <fa:FontAwesome HorizontalAlignment="Left" Icon="HospitalOutline" FontSize="50" Margin="10,0,0,0"/>
+            </Grid>
+            <Grid>
+                <Label Content="Zdravo korporacija" HorizontalAlignment="Left" Margin="51,15,0,0" VerticalAlignment="Top"/>
+                <Label Content="We care about your helth" HorizontalAlignment="Center" Margin="219,10,203,0" FontSize="27" VerticalAlignment="Top" Width="378"/>
+            </Grid>
+
+
+        </Grid>
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Image Width="700" Height="600" Grid.Column="0">
+                <Image.Source>
+                    <BitmapImage  UriSource="/Images/hospital.jpg" />
+                </Image.Source>
+            </Image>
+
+            <!--<Label Content="A hospital is a health care institution providing patient treatment with&#xA;specialized medical and nursing staff and medical equipment. The &#xD;&#xA;best-known type of hospital is the general hospital, which typically &#xA;has an emergency department to treat urgent health problems&#xA;ranging from fire and accident victims to a sudden illness." Grid.Column="1" HorizontalAlignment="Left" Margin="20,50,0,0" VerticalAlignment="Top" Height="185" Width="380"/>
+            -->
+        </Grid>
+        <Grid Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <fa:FontAwesome HorizontalAlignment="Left" Icon="Briefcase" FontSize="20" Margin="10,0,0,0"/>
+                <Label Content="Mon-Fri: 8:00 AM-9:00 PM" HorizontalAlignment="Left" Margin="68,10,0,0" VerticalAlignment="Top" Width="178"/>
+                <Label Content="Sut: 8:00 AM-1:00 PM" HorizontalAlignment="Left" Margin="68,36,0,0" VerticalAlignment="Top" Width="178"/>
+            </Grid>
+            <Grid Grid.Column="1">
+                <fa:FontAwesome HorizontalAlignment="Left" Icon="Phone" FontSize="20" Margin="10,0,0,0"/>
+                <Label Content="021-333-444" HorizontalAlignment="Left" Margin="68,10,0,0" VerticalAlignment="Top" Width="178"/>
+                <Label Content="021-733-890" HorizontalAlignment="Left" Margin="68,36,0,0" VerticalAlignment="Top" Width="178"/>
+                <Label Content="021-555-002" HorizontalAlignment="Left" Margin="68,62,0,0" VerticalAlignment="Top" Width="178"/>
+            </Grid>
+            <Grid Grid.Column="2">
+                <fa:FontAwesome HorizontalAlignment="Left" Icon="Home" FontSize="20" Margin="10,0,0,0"/>
+                <Label Content="Bulevar Oslobodjena 1" HorizontalAlignment="Left" Margin="68,10,0,0" VerticalAlignment="Top" Width="178"/>
+                <Label Content="Novi Sad" HorizontalAlignment="Left" Margin="68,36,0,0" VerticalAlignment="Top" Width="178"/>
+            </Grid>
+        </Grid>
+        <Frame x:Name="frame"  ></Frame>
+    </Grid>
+</Page>

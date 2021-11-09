@@ -1,0 +1,90 @@
+﻿<Page x:Class="Bolnica.ViewsSecretary.DoctorsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Bolnica.ViewsSecretary"
+      xmlns:fa="http://schemas.fontawesome.io/icons/"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="DoctorsPage">
+
+    <Grid Background="AliceBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30px"></RowDefinition>
+            <RowDefinition Height="30px"></RowDefinition>
+            <RowDefinition Height="55"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40px"></ColumnDefinition>
+                <ColumnDefinition Width="40px"></ColumnDefinition>
+                <ColumnDefinition Width="40px"></ColumnDefinition>
+                <ColumnDefinition Width="40px"></ColumnDefinition>
+                <ColumnDefinition Width="10*"></ColumnDefinition>
+                <ColumnDefinition Width="40px"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button  Content="←" Grid.Column="0" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Width="40px" Height="30px" BorderThickness="0"  Foreground="Black" FontSize="18"></Button>
+            <Button  Content="→" Grid.Column="1" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Width="40px" Height="30px" BorderThickness="0"  Foreground="Black" FontSize="18"></Button>
+            <Button  Content="⟳" Grid.Column="2" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Width="40px" Height="30px" BorderThickness="0" Foreground="Black" FontSize="18"></Button>
+            <Button  Content="⌂" Grid.Column="3" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Width="40px" Height="30px" BorderThickness="0" Foreground="Black" FontSize="18"></Button>
+            <TextBox  Text="http://zdravokorporacija.com/patients" x:Name="area" Grid.Column="4" Foreground="Black" FontSize="15" FontWeight="SemiBold" Margin="14 0 14 0"></TextBox>
+            <Button  Content="search" Grid.Column="5" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Width="40px" Height="30px" BorderThickness="0" Foreground="Black" FontSize="8"></Button>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button  Content="Home" Grid.Column="0" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" Click="Home_page"></Button>
+            <Button  Content="Patients" Grid.Column="1" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" ></Button>
+            <Button  Content="Appointments" Grid.Column="2" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" Click="View_appointments"></Button>
+            <Button  Content="Rooms" Grid.Column="3" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" Click="View_rooms"></Button>
+            <ComboBox Name="new_patient_register"  SelectionChanged="ComboBox_SelectionChanged" Grid.Column="4" Background="AliceBlue" BorderBrush="AliceBlue" Style="{StaticResource {x:Static ToolBar.ComboBoxStyleKey}}" BorderThickness="0"  Foreground="Black" Margin="0,5" Width="100" >
+                <ComboBoxItem >Guest account</ComboBoxItem>
+                <ComboBoxItem>Regular account</ComboBoxItem>
+            </ComboBox>
+            <Label Grid.Column="4" Content="New patient" HorizontalAlignment="Center"></Label>
+            <Button  Content="Graphs" Grid.Column="5" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" Click="View_graphs"></Button>
+            <Button  Content="Bulletin board " Grid.Column="6" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" Click="BulletinBoard"></Button>
+            <Button  Content="Emergency" Grid.Column="7" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" Click="Emergency_appointment"></Button>
+            <Button  Content="Profile" Grid.Column="8" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" Click="View_profile"></Button>
+            <Button  Content="Log out" Grid.Column="9" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"  BorderThickness="0"  Foreground="Black" Click="Log_out"></Button>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid>
+                <fa:FontAwesome HorizontalAlignment="Left" Icon="HospitalOutline" FontSize="50" Margin="10,0,0,0"/>
+            </Grid>
+            <Label Content="Zdravo korporacija" HorizontalAlignment="Left" Margin="51,15,0,0" VerticalAlignment="Top"/>
+
+        </Grid>
+        <Grid Grid.Row="3">
+            <Grid>
+                <ListView Margin="10,56,10,87" Name="lvUsers" >
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Id" Width="120" DisplayMemberBinding="{Binding user.id}" />
+                            <GridViewColumn Header="First name" Width="150" DisplayMemberBinding="{Binding user.firstName}" />
+                            <GridViewColumn Header="Last name" Width="150" DisplayMemberBinding="{Binding user.lastName}" />
+                            <GridViewColumn Header="Jmbg" Width="120" DisplayMemberBinding="{Binding user.jmbg}" />
+
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+                <Button  Content="search" HorizontalAlignment="Left" Margin="140,29,0,0" VerticalAlignment="Top" Width="53" Click="Search_doctor"/>
+                <TextBox Name="firstAndLastName" HorizontalAlignment="Left" Height="23" Margin="10,28,0,0" TextWrapping="Wrap" Text="First and last name" VerticalAlignment="Top" Width="120"/>
+            </Grid>
+            <Button Height="20" VerticalAlignment="Bottom" Margin="5" Width="100" HorizontalAlignment="Left" Content="delete" Click="delete_doctor"/>
+            <Button Height="20" VerticalAlignment="Bottom" Margin="5" Width="100" HorizontalAlignment="Right" Content="details" Click="details_doctor"/>
+        </Grid>
+    </Grid>
+</Page>

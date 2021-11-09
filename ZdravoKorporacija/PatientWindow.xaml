@@ -1,0 +1,45 @@
+﻿<Window x:Class="project.PatientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:project"
+        mc:Ignorable="d"
+         Loaded="OnLoad"
+        Title="PatientWindow" Height="900" Width="1000">
+    <Grid>
+        <ComboBox x:Name="ComboChoice" HorizontalAlignment="Left" Margin="126,45,0,0" VerticalAlignment="Top" Width="182"  Height="22" SelectionChanged="ComboChoice_SelectionChanged"/>
+        <Label Content="Doctor" HorizontalAlignment="Left" Margin="6,41,0,0" VerticalAlignment="Top" Height="26" Width="46"/>
+        <DatePicker x:Name="DatePick" HorizontalAlignment="Left" Margin="126,94,0,0" VerticalAlignment="Top" Width="182" Height="29"/>
+        <Label Content="Date" HorizontalAlignment="Left" Margin="6,94,0,0" VerticalAlignment="Top" Height="26" Width="35"/>
+        <Button Name="Button1" Content="Find free terms" HorizontalAlignment="Left" Margin="40,287,0,0" VerticalAlignment="Top" Width="127" Height="34" Click="Button_Click_2" />
+        <Button Name="Button2" Content="Show all examinations" HorizontalAlignment="Left" Margin="626,369,0,0" VerticalAlignment="Top" Width="295" Height="36" Click="Button_Click_1" />
+        <Button Name="Button3" Content="Delete examination" HorizontalAlignment="Left" Margin="626,426,0,0" VerticalAlignment="Top" Width="295" Height="36" Click="Button_Click_4" />
+        <Button Name="Button4" Content="Update examination" HorizontalAlignment="Left" Margin="626,481,0,0" VerticalAlignment="Top" Width="295" Height="36" Click="Button_Click_5" />
+        <Label Content="Start Time&lt;hh:mm&gt;" HorizontalAlignment="Left" Margin="313,45,0,0" VerticalAlignment="Top" Height="26" Width="138"/>
+        <TextBox x:Name="tb_startTime" HorizontalAlignment="Left" Height="23" Margin="466,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="96" RenderTransformOrigin="0.733,1.96"/>
+        <ListBox Name ="ListaPregleda" HorizontalAlignment="Left" Height="279" Margin="590,41,0,0" VerticalAlignment="Top" Width="361" SelectionChanged="ListaPregleda_SelectionChanged"/>
+        <Button Name="Button5" Content="View Therapy" HorizontalAlignment="Left" Margin="437,750,0,0" VerticalAlignment="Top" Width="182" Height="36" Click="Button_Click"/>
+        <RadioButton x:Name="radioDoctor" Content="Doctor" HorizontalAlignment="Left" Margin="84,238,0,0" VerticalAlignment="Top" Checked="RadioButton_Checked"/>
+        <RadioButton x:Name="radioTime" Content="Time" HorizontalAlignment="Left" Margin="84,258,0,0" VerticalAlignment="Top"/>
+        <Label Content="Select priority" HorizontalAlignment="Left" Margin="84,193,0,0" VerticalAlignment="Top"/>
+        <Label Content="End Time&lt;hh:mm&gt;" HorizontalAlignment="Left" Margin="313,94,0,0" VerticalAlignment="Top" Height="26" Width="138"/>
+        <TextBox x:Name="tb_endTime" HorizontalAlignment="Left" Height="23" Margin="466,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="96" RenderTransformOrigin="0.733,1.96"/>
+        <ListView Name="ListFreeTerms"  HorizontalAlignment="Left" Height="287" Margin="32,369,0,0" VerticalAlignment="Top" Width="398">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBox x:Name="Duration" HorizontalAlignment="Left" Height="23" Margin="158,684,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182"/>
+        <Label Content="Duration in hours" HorizontalAlignment="Left" Margin="32,684,0,0" VerticalAlignment="Top" Height="26" Width="102"/>
+        <Button Name="Button6" Content="Schedule appointment" HorizontalAlignment="Left" Margin="84,746,0,0" VerticalAlignment="Top" Width="238" Height="45" Click="Button_Click_3"/>
+        <Button Name="Button7" Content="View Past Appointments" HorizontalAlignment="Left" Margin="734,750,0,0" VerticalAlignment="Top" Width="155" Height="36" Click="Button_Click_6"/>
+        <Label Name="labelDoctorSpecialty" Content="Doctor Specialty" HorizontalAlignment="Left" Margin="187,10,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Button8" Content="View All Personal Reminders" HorizontalAlignment="Left" Margin="187,287,0,0" VerticalAlignment="Top" Width="163" Height="34" Click="Button_Click_8" />
+        <Button Content="View Medical Card" HorizontalAlignment="Left" Margin="377,287,0,0" VerticalAlignment="Top" Click="view_medicalCard_click" Width="143" Height="33"/>
+        <Button Content="Create Personal Reminder" HorizontalAlignment="Left" Margin="187,238,0,0" VerticalAlignment="Top" Width="163" Height="25" Click="Button_Click_7"/>
+
+    </Grid>
+</Window>

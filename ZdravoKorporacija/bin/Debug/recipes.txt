@@ -1,0 +1,7 @@
+1,bromazepam,100,svaki dan,3,14:00
+2,brufen,150,svaki dan,2,8:00
+3,aspirin,300,svaki dan,4,15:30
+4,kardiopirin,200,svaki dan,3,11:00
+5,cefaleksin,400,svaki dan,1,15:00
+6,bensedin,200,svaki dan,3,13:00
+7,eritromicin,300,svaki dan,4,13:30

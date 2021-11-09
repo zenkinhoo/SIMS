@@ -1,0 +1,5 @@
+1,soba1,3,klasicna,MedicalRoom,true
+2,soba1,1,klasicna,MedicalRoom,true
+3,soba1,2,klasicna,MedicalRoom,true
+4,soba1,5,klasicna,MedicalRoom,true
+5,soba1,2,klasicna,MedicalRoom,true

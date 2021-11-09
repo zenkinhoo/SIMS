@@ -1,0 +1,21 @@
+﻿<Window x:Class="Bolnica.ViewMedicalCard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica"
+        mc:Ignorable="d"
+        Loaded="OnLoad"
+        Title="ViewMedicalCard" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="ListAnamnesis" HorizontalAlignment="Left" Height="140" Margin="294,43,0,0" VerticalAlignment="Top" Width="202"/>
+        <ListBox x:Name="ListSpecialTreatmentRefferals" HorizontalAlignment="Left" Height="140" Margin="55,43,0,0" VerticalAlignment="Top" Width="202"/>
+        <ListBox x:Name="ListRecipes" HorizontalAlignment="Left" Height="140" Margin="55,234,0,0" VerticalAlignment="Top" Width="201"/>
+        <ListBox x:Name="ListHospitalTreatmentRefferals" HorizontalAlignment="Left" Height="140" Margin="294,234,0,0" VerticalAlignment="Top" Width="202"/>
+        <Label Content="Special Treatment Refferals&#xA;" HorizontalAlignment="Left" Margin="89,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Recipes&#xA;" HorizontalAlignment="Left" Margin="134,206,0,0" VerticalAlignment="Top"/>
+        <Label HorizontalAlignment="Left" Margin="328,206,0,0" VerticalAlignment="Top"/>
+        <Label Content="Hospital Treatment Refferals&#xA;" HorizontalAlignment="Left" Margin="314,198,0,0" VerticalAlignment="Top"/>
+        <Label Content="Anamnessi&#xA;" HorizontalAlignment="Left" Margin="357,10,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

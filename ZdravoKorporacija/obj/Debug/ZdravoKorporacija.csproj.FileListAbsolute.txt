@@ -1,0 +1,519 @@
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.csprojAssemblyReference.cache
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AllergensWindow.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AppointmentsWindow.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ChangeAppointmentWindow.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AppointmentHistory.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DirectorWindow.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DoctorSurveys.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DoctorWindow.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\FreeTerms.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MakeGuestAccount.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientChangeWindow.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MedicalInstructions.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientTherapyWindow.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientWindow.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\proba.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\RegisterPatientWindow.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryScheduleAppointments.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryScheduleAppointmentSteptwo.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryWindow.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AddAnnouncement.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AddRegularAccount.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AppointmentsPage.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\BulletinBoard.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\ChangeAnnouncement.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\ChangePatient.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\CreateEmergencyAppointment.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DetailsAnnouncement.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DetailsPatient.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DoctorsPage.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\GuestAccountPage.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\HomePage.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\PatientsPage.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\DoctorRatings.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\EditProfile.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Login.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\MedicalHistory.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\PatientHomePage.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Profile.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\RateDoctor.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\RateHospital.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Therapy.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\App.g.cs
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija_MarkupCompile.cache
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija_MarkupCompile.lref
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\ZdravoKorporacija.exe.config
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\ZdravoKorporacija.exe
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\ZdravoKorporacija.pdb
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AllergensWindow.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AppointmentsWindow.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ChangeAppointmentWindow.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AppointmentHistory.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DirectorWindow.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DoctorSurveys.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DoctorWindow.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\FreeTerms.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MainWindow.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MakeGuestAccount.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientChangeWindow.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MedicalInstructions.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientTherapyWindow.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientWindow.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\proba.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\RegisterPatientWindow.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryScheduleAppointments.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryScheduleAppointmentSteptwo.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryWindow.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AddAnnouncement.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AddRegularAccount.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AppointmentsPage.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\BulletinBoard.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\ChangeAnnouncement.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\ChangePatient.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\CreateEmergencyAppointment.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DetailsAnnouncement.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DetailsPatient.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DoctorsPage.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\GuestAccountPage.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\HomePage.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\PatientsPage.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\DoctorRatings.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\EditProfile.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Login.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\MedicalHistory.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\PatientHomePage.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Profile.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\RateDoctor.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\RateHospital.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Therapy.baml
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.g.resources
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.Properties.Resources.resources
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.csproj.GenerateResource.cache
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.csproj.CopyComplete
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.exe
+C:\Users\Lenovo T450\Desktop\ProjekatSimsHci-main\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.pdb
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\ZdravoKorporacija.exe
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\ZdravoKorporacija.exe.config
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.csprojAssemblyReference.cache
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AllergensWindow.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AppointmentsWindow.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ChangeAppointmentWindow.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AppointmentHistory.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\CreatePersonalReminder.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DirectorWindow.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DoctorSurveys.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DoctorWindow.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\FreeTerms.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MakeGuestAccount.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientChangeWindow.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MedicalInstructions.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientTherapyWindow.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientWindow.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PersonalReminders.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\proba.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\RegisterPatientWindow.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryScheduleAppointments.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryScheduleAppointmentSteptwo.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryWindow.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\UpdatePersonalReminder.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewMedicalCard.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AddAnnouncement.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AddRegularAccount.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AppointmentsPage.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\BulletinBoard.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\ChangeAnnouncement.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\ChangePatient.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\CreateEmergencyAppointment.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DetailsAnnouncement.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DetailsPatient.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DoctorsPage.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\GuestAccountPage.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\HomePage.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\PatientsPage.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\DoctorRatings.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\EditProfile.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Login.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\MedicalHistory.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\PatientHomePage.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Profile.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\RateDoctor.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\RateHospital.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Therapy.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\App.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija_MarkupCompile.cache
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija_MarkupCompile.lref
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AllergensWindow.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AppointmentsWindow.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ChangeAppointmentWindow.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AppointmentHistory.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\CreatePersonalReminder.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DirectorWindow.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DoctorSurveys.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DoctorWindow.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\FreeTerms.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MainWindow.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MakeGuestAccount.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientChangeWindow.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MedicalInstructions.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientTherapyWindow.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientWindow.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PersonalReminders.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\proba.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\RegisterPatientWindow.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryScheduleAppointments.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryScheduleAppointmentSteptwo.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryWindow.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\UpdatePersonalReminder.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewMedicalCard.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AddAnnouncement.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AddRegularAccount.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AppointmentsPage.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\BulletinBoard.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\ChangeAnnouncement.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\ChangePatient.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\CreateEmergencyAppointment.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DetailsAnnouncement.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DetailsPatient.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DoctorsPage.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\GuestAccountPage.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\HomePage.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\PatientsPage.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\DoctorRatings.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\EditProfile.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Login.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\MedicalHistory.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\PatientHomePage.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Profile.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\RateDoctor.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\RateHospital.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Therapy.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.g.resources
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.Properties.Resources.resources
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.csproj.GenerateResource.cache
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.csproj.CopyComplete
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.exe
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.pdb
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\ZdravoKorporacija.pdb
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewFullMedicalCard.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewFullMedicalCard.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewAllRecipes.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewAllRecipes.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewAnamnesis.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewHospitalTreatments.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewSpecialTreatments.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewAnamnesis.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewHospitalTreatments.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewSpecialTreatments.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\AppointmentsAndSurgeries.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\AppointmentsAndSurgeries.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ScheduleAppointment.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ScheduleAppointment.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\UpdateAppointment.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\UpdateAppointment.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Reminder.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Reminder.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\CreateReminder.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\CreateReminder.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\UpdateReminder.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\UpdateReminder.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ReportPdf.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ReportPdf.baml
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Tutorial.g.cs
+C:\Users\Lenovo T450\Desktop\najnoviji SIMS\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Tutorial.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.csprojAssemblyReference.cache
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AllergensWindow.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AppointmentsWindow.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ChangeAppointmentWindow.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AppointmentHistory.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\CreatePersonalReminder.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DirectorWindow.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DoctorSurveys.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DoctorWindow.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\FreeTerms.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MakeGuestAccount.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientChangeWindow.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MedicalInstructions.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientTherapyWindow.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientWindow.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PersonalReminders.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\proba.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\RegisterPatientWindow.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryScheduleAppointments.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryScheduleAppointmentSteptwo.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryWindow.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\UpdatePersonalReminder.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewMedicalCard.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AddAnnouncement.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AddRegularAccount.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AppointmentsPage.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\BulletinBoard.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\ChangeAnnouncement.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\ChangePatient.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\CreateEmergencyAppointment.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DetailsAnnouncement.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DetailsPatient.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DoctorsPage.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\GuestAccountPage.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\HomePage.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\PatientsPage.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\AppointmentsAndSurgeries.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\DoctorRatings.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\EditProfile.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Login.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\MedicalHistory.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\PatientHomePage.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Profile.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\RateDoctor.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\RateHospital.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Reminder.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ReportPdf.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ScheduleAppointment.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Therapy.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Tutorial.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\UpdateAppointment.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\UpdateReminder.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewAllRecipes.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewAnamnesis.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewFullMedicalCard.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewHospitalTreatments.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewSpecialTreatments.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\App.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija_MarkupCompile.cache
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija_MarkupCompile.lref
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\ZdravoKorporacija.exe.config
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\ZdravoKorporacija.exe
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\ZdravoKorporacija.pdb
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\CommonServiceLocator.dll
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\CreateReminder.g.cs
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AllergensWindow.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AppointmentsWindow.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ChangeAppointmentWindow.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AppointmentHistory.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\CreatePersonalReminder.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DirectorWindow.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DoctorSurveys.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DoctorWindow.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\FreeTerms.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MainWindow.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MakeGuestAccount.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientChangeWindow.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MedicalInstructions.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientTherapyWindow.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientWindow.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PersonalReminders.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\proba.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\RegisterPatientWindow.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryScheduleAppointments.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryScheduleAppointmentSteptwo.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryWindow.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\UpdatePersonalReminder.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewMedicalCard.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AddAnnouncement.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AddRegularAccount.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AppointmentsPage.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\BulletinBoard.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\ChangeAnnouncement.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\ChangePatient.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\CreateEmergencyAppointment.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DetailsAnnouncement.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DetailsPatient.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DoctorsPage.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\GuestAccountPage.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\HomePage.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\PatientsPage.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\AppointmentsAndSurgeries.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\CreateReminder.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\DoctorRatings.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\EditProfile.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Login.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\MedicalHistory.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\PatientHomePage.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Profile.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\RateDoctor.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\RateHospital.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Reminder.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ReportPdf.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ScheduleAppointment.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Therapy.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Tutorial.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\UpdateAppointment.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\UpdateReminder.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewAllRecipes.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewAnamnesis.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewFullMedicalCard.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewHospitalTreatments.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewSpecialTreatments.baml
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.g.resources
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.Properties.Resources.resources
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.csproj.GenerateResource.cache
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.csproj.CopyComplete
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.exe
+C:\Users\Lenovo T450\Desktop\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.pdb
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\ZdravoKorporacija.exe.config
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\ZdravoKorporacija.exe
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\ZdravoKorporacija.pdb
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\CommonServiceLocator.dll
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.csprojAssemblyReference.cache
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AllergensWindow.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AppointmentsWindow.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ChangeAppointmentWindow.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AppointmentHistory.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\CreatePersonalReminder.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DirectorWindow.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DoctorSurveys.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DoctorWindow.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\FreeTerms.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MakeGuestAccount.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientChangeWindow.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MedicalInstructions.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientTherapyWindow.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientWindow.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PersonalReminders.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\proba.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\RegisterPatientWindow.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryScheduleAppointments.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryScheduleAppointmentSteptwo.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryWindow.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\UpdatePersonalReminder.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewMedicalCard.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AddAnnouncement.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AddRegularAccount.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AppointmentsPage.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\BulletinBoard.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\ChangeAnnouncement.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\ChangePatient.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\CreateEmergencyAppointment.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DetailsAnnouncement.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DetailsPatient.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DoctorsPage.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\GuestAccountPage.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\HomePage.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\PatientsPage.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\AppointmentsAndSurgeries.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\CreateReminder.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\DoctorRatings.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\EditProfile.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Login.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\MedicalHistory.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\PatientHomePage.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Profile.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\RateDoctor.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\RateHospital.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Reminder.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ReportPdf.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ScheduleAppointment.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Therapy.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Tutorial.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\UpdateAppointment.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\UpdateReminder.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewAllRecipes.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewAnamnesis.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewFullMedicalCard.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewHospitalTreatments.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewSpecialTreatments.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\App.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija_MarkupCompile.cache
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija_MarkupCompile.lref
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AllergensWindow.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AppointmentsWindow.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ChangeAppointmentWindow.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\AppointmentHistory.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\CreatePersonalReminder.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DirectorWindow.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DoctorSurveys.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\DoctorWindow.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\FreeTerms.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MainWindow.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MakeGuestAccount.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientChangeWindow.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\MedicalInstructions.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientTherapyWindow.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PatientWindow.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\PersonalReminders.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\proba.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\RegisterPatientWindow.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryScheduleAppointments.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryScheduleAppointmentSteptwo.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\SecretaryWindow.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\UpdatePersonalReminder.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewMedicalCard.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AddAnnouncement.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AddRegularAccount.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\AppointmentsPage.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\BulletinBoard.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\ChangeAnnouncement.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\ChangePatient.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\CreateEmergencyAppointment.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DetailsAnnouncement.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DetailsPatient.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\DoctorsPage.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\GuestAccountPage.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\HomePage.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ViewsSecretary\PatientsPage.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\AppointmentsAndSurgeries.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\CreateReminder.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\DoctorRatings.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\EditProfile.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Login.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\MedicalHistory.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\PatientHomePage.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Profile.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\RateDoctor.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\RateHospital.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Reminder.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ReportPdf.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ScheduleAppointment.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Therapy.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\Tutorial.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\UpdateAppointment.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\UpdateReminder.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewAllRecipes.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewAnamnesis.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewFullMedicalCard.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewHospitalTreatments.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\View\ViewSpecialTreatments.baml
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.g.resources
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.Properties.Resources.resources
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.csproj.GenerateResource.cache
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.csproj.CopyComplete
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.exe
+C:\Users\Lenovo T450\Desktop\faks\mvvm_hci\ZdravoKorporacija\ZdravoKorporacija\obj\Debug\ZdravoKorporacija.pdb

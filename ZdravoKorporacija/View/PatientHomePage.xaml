@@ -1,0 +1,96 @@
+﻿<Window x:Class="Bolnica.View.PatientHomePage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.View"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Loaded="OnLoad"
+
+        Title="Home" Height="720" Width="1280" FontFamily="Segoe UI Black" Background="#FFBBB6B6">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1.8*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="3.3*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1.1*" />
+            <RowDefinition Height="1.8*" />
+            <RowDefinition Height="1.1*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="42*" />
+            <ColumnDefinition Width="280*" />
+            <ColumnDefinition Width="66*" />
+            <ColumnDefinition Width="387*" />
+            <ColumnDefinition Width="68*" />
+            <ColumnDefinition Width="387*" />
+            <ColumnDefinition Width="42*" />
+
+        </Grid.ColumnDefinitions>
+
+        <StackPanel  Grid.Row="0" Grid.ColumnSpan="4"  Height="70"  VerticalAlignment="Top" HorizontalAlignment="Right" Grid.Column="3" Width="722">
+            <Menu>
+                <MenuItem Header="_Home"  FontSize="17" FontFamily="Segoe UI Black" Height="70"   BorderThickness="3,2,1,3" BorderBrush="#FF4D4B4B" Background="#b7b2b2"  Width="75" />
+
+                <MenuItem Header="_Profile" FontSize="17" FontFamily="Segoe UI Black" BorderThickness="2,2,1,3"  BorderBrush="#FF4D4B4B"  Width="77" Click="MenuItem_Click">
+                </MenuItem>
+                <MenuItem Header="_Appointments And Surgeries"  FontSize="17" FontFamily="Segoe UI Black" BorderThickness="2,2,2,3"  BorderBrush="#FF4D4B4B"  Width="264" Click="appointments_click">
+                </MenuItem>
+                <MenuItem Header="_Notifications" FontSize="17" FontFamily="Segoe UI Black" BorderThickness="1,2,2,3"  BorderBrush="#FF4D4B4B"  Width="126" Click="reminder_click">
+                </MenuItem>
+                <MenuItem Header="_Tutorial" FontSize="17" FontFamily="Segoe UI Black" BorderThickness="1,2,3,3"  BorderBrush="#FF4D4B4B"  Width="90" Click="MenuItem_Click_1">
+                </MenuItem>
+                <MenuItem Header="_Logout" FontSize="17" FontFamily="Segoe UI Black" BorderThickness="0,2,3,3"  BorderBrush="#FF4D4B4B" Click="Logout"  Width="90" Margin="0">
+                </MenuItem>
+
+            </Menu>
+        </StackPanel>
+        <Image Grid.Column="1" Grid.Row="3" Source="/ZdravoKorporacija;component/Images/profile.png"></Image>
+        <Label Grid.Column="1" Grid.Row="4" Content="Lazar Mitrovic" Margin="58,10,58,0" VerticalAlignment="Top" FontSize="22" HorizontalAlignment="Center" Height="39" Width="164"/>
+        <Label Grid.Column="1" Grid.Row="4" Content="2701000780028" HorizontalAlignment="Center" Margin="50,54,50,0" VerticalAlignment="Top" RenderTransformOrigin="0.366,0.269" FontSize="22" Height="39" Width="180"/>
+        <Label Grid.Column="1" Grid.Row="4" Content="lazarmitrovic14@gmail.com" HorizontalAlignment="Center" Margin="4,93,4,0" VerticalAlignment="Top" RenderTransformOrigin="0.244,0.346" FontSize="19" Height="35" Width="272"/>
+
+        <ListBox Name="AppointmentsList" Grid.RowSpan="3" Grid.Column="3" Grid.Row="3"  SelectionChanged="AppointmentsList_SelectionChanged" Margin="0,20,0,0" Background="#FFDDDDDD" FontSize="15" BorderThickness="5"  BorderBrush="#FF4D4B4B"/>
+        <Label Grid.Column="3" Grid.Row="2" Content="Appointments And Surgeries"  HorizontalAlignment="Center" Margin="28,0,21,0"  VerticalAlignment="Center" FontSize="23" VerticalContentAlignment="Center" Height="40" Width="338"/>
+        <Label Grid.Column="5" Grid.Row="2" Content="Appointments History"  HorizontalAlignment="Center" Margin="51,0,52,0"  VerticalAlignment="Center" FontSize="25" VerticalContentAlignment="Center" Height="40" Width="284"/>
+        <ListBox Name="AppointmentsHistoryList" Grid.RowSpan="3" Grid.Column="5" Grid.Row="3"  SelectionChanged="AppointmentsList_SelectionChanged" Margin="0,20,0,0" Background="#FFDDDDDD" FontSize="15" BorderThickness="5"  BorderBrush="#FF4D4B4B"  />
+        <Button  Grid.Row="7" Grid.Column="1" Content="Full Profile" FontSize="20"  BorderThickness="5"  BorderBrush="#FF4D4B4B" Click="Button_Click"  />
+        <Button  Grid.Row="7" Grid.Column="3" Content="Manage Appointments And Surgeries" FontSize="18"   BorderThickness="5"  BorderBrush="#FF4D4B4B" Click="manage_appointments_click"  >
+            <Button.ToolTip>
+                <StackPanel>
+                    <TextBlock FontWeight="Bold" FontSize="14" Margin="0,0,0,5">Click the button</TextBlock>
+                    <TextBlock>
+                        Click here to schedule,update or delete appointments
+                    </TextBlock>
+                    <Border BorderBrush="Silver" BorderThickness="0,1,0,0" Margin="0,8" />
+                    <WrapPanel>
+                        <Image Source="/Images/bell.png" Margin="0,0,0,0" Height="15" Width="20" />
+                        <TextBlock FontStyle="Italic">Managing appointments</TextBlock>
+                    </WrapPanel>
+                </StackPanel>
+            </Button.ToolTip>
+        </Button>
+        <Button  Grid.Row="7" Grid.Column="5" Content="View Full Appointments History" FontSize="20"   BorderThickness="5"  BorderBrush="#FF4D4B4B" Click="past_appointments_click" >
+            <Button.ToolTip>
+                <StackPanel>
+                    <TextBlock FontWeight="Bold" FontSize="14" Margin="0,0,0,5">Click the button</TextBlock>
+                    <TextBlock>
+                        Click here to view past appointments,rate doctors or hospital
+                    </TextBlock>
+                    <Border BorderBrush="Silver" BorderThickness="0,1,0,0" Margin="0,8" />
+                    <WrapPanel>
+                        <Image Source="/Images/bell.png" Margin="0,0,0,0" Height="15" Width="20" />
+                        <TextBlock FontStyle="Italic">Showing full appointments history</TextBlock>
+                    </WrapPanel>
+                </StackPanel>
+            </Button.ToolTip>
+        </Button>
+    </Grid>
+
+
+</Window>

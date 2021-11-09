@@ -1,0 +1,15 @@
+﻿<Window x:Class="Bolnica.DoctorSurveys"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica"
+        mc:Ignorable="d"
+        Loaded="OnLoad"
+        Title="Doctor_Surveys" Height="450" Width="500">
+    <Grid Margin="0,0,2,0">
+        <TextBox x:Name="tbDoctorSurveys" HorizontalAlignment="Left" Height="303" Margin="47,49,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="385"/>
+        <Label Name="labelDoctorName" Content="Doctor's Name" HorizontalAlignment="Left" Margin="47,10,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

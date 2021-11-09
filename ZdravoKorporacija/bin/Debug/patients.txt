@@ -1,0 +1,7 @@
+2705555521456,1,Lazar,Mitrovic,066123456,Karadjordjeva,1234,zenkyff,false
+1660123321456,2,Milan,Miric,066654321,Dositejeva,123454,doktorski,false
+8890123321456,3,Kosta,Kostic,066555333,Dunavska,1223,doca,false
+2700123354321,4,Dragan,Goric,066123321,Strazilovska,5555,znk,false
+2700123354321,5,Zoran,Goranovic,066123321,Omladinska,121,neuro,false
+2700123354321,6,Miljan,Milanovic,066123321,Rumenacka,23531,kardio,false
+

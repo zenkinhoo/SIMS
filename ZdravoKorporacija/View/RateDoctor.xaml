@@ -1,0 +1,72 @@
+﻿<Window x:Class="Bolnica.View.RateDoctor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.View"
+                   xmlns:util="clr-namespace:Bolnica.View.Validation"
+
+        mc:Ignorable="d"
+        Loaded="OnLoad"
+          WindowStyle="ToolWindow"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="RateDoctor" Height="390" Width="440" FontFamily="Segoe UI Black" Background="#FFBBB6B6">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30*" />
+            <RowDefinition Height="30*" />
+            <RowDefinition Height="28*" />
+            <RowDefinition Height="47*" />
+            <RowDefinition Height="64*" />
+            <RowDefinition Height="44*" />
+            <RowDefinition Height="45*" />
+            <RowDefinition Height="44*" />
+            <RowDefinition Height="30*" />
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*" />
+            <ColumnDefinition Width="3*" />
+            <ColumnDefinition Width="2.5*" />
+            <ColumnDefinition Width="2.5*" />
+        </Grid.ColumnDefinitions>
+        <Image  Grid.Column="1" Grid.Row="1" Grid.RowSpan="4" Source="/ZdravoKorporacija;component/Images/profile.png"></Image>
+        <Label x:Name="labelName"  Grid.Column="1" Grid.Row="5" Content="Lazar"  HorizontalAlignment="Center"   VerticalAlignment="Center" FontSize="14" VerticalContentAlignment="Center"  FontFamily="Segoe UI Black"    HorizontalContentAlignment="Center"  />
+        <Label x:Name="labelSurname"  Grid.Column="1" Grid.Row="6" Content="Mitrovic"  HorizontalAlignment="Center"   VerticalAlignment="Center" FontSize="14" VerticalContentAlignment="Center"  FontFamily="Segoe UI Black"   HorizontalContentAlignment="Center" />
+        <Label x:Name="labelSpecialty" Grid.Column="1" Grid.Row="7" Content="Psihijatar"  HorizontalAlignment="Center"   VerticalAlignment="Center" FontSize="14" VerticalContentAlignment="Center"  FontFamily="Segoe UI Black"    HorizontalContentAlignment="Center" />
+        <Label Grid.Column="2" Grid.Row="1" Grid.ColumnSpan="2"  Content="Enter your rating here:"  HorizontalAlignment="Center"   VerticalAlignment="Center"  FontFamily="Segoe UI Black" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="13" Height="26" Margin="50,2" Width="156" />
+        <TextBox Grid.Column="2" Grid.Row="1" Grid.ColumnSpan="2" Name="tbRate"  FontFamily="Segoe UI Black" Background="#FFFBF7F7" BorderThickness="2"  BorderBrush="#FF4D4B4B"  VerticalContentAlignment="Center" Tag="Enter first name" FontStyle="Italic" TextAlignment="Center"  Height="25" VerticalAlignment="Bottom" Margin="30,0,30,5" Grid.RowSpan="2" >
+            <TextBox.Text>
+                <Binding Path="rate" UpdateSourceTrigger="PropertyChanged"  Mode="TwoWay">
+
+                    <Binding.ValidationRules>
+                        <util:NumbersValidation ValidationStep="RawProposedValue"/>
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+            <Validation.ErrorTemplate>
+                <ControlTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition />
+                        </Grid.RowDefinitions>
+                        <AdornedElementPlaceholder Grid.Row="0" Grid.Column="0"></AdornedElementPlaceholder>
+                        <TextBlock Grid.Column="0" Grid.Row="1" FontSize="13" Text ="{Binding [0].ErrorContent}"  Foreground="Red" ></TextBlock>
+                        <Label FontSize="20" Grid.Row="0" Grid.Column="1"  Foreground="Red" FontFamily="Segoe MDL2 Assets" Content="&#xE946;" ></Label>
+                    </Grid>
+                </ControlTemplate>
+            </Validation.ErrorTemplate>
+        </TextBox>
+        <Label Grid.Column="2" Grid.Row="3" Grid.ColumnSpan="2"  Content="Enter your comment here:"  HorizontalAlignment="Center"   VerticalAlignment="Center"  FontFamily="Segoe UI Black" FontSize="13" Height="28" Margin="41,19,39,0" Width="176"  />
+        <TextBox Grid.Column="2" Grid.Row="4" Grid.ColumnSpan="2" Grid.RowSpan="3" BorderThickness="3" x:Name="tbComment"  BorderBrush="#FF4D4B4B"  FontFamily="Segoe UI Black" Background="#FFFBF7F7"  VerticalContentAlignment="Center" TextAlignment="Center" Margin="30,0,30,10" />
+        <Button Grid.Column="2" Grid.Row="7" Content="Rate Doctor" FontSize="13" FontFamily="Segoe UI Black" BorderThickness="3"  BorderBrush="#FF4D4B4B"   Click="rate_doctor" Margin="5,0" />
+        <Button Grid.Column="3" Grid.Row="7" Content="Cancel" FontSize="13" FontFamily="Segoe UI Black" BorderThickness="3"  BorderBrush="#FF4D4B4B"   Click="cancel_rating" Margin="5,0" />
+
+    </Grid>
+</Window>
